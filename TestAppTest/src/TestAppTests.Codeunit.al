@@ -5,6 +5,5 @@ codeunit 50011 "TestApp Tests"
     [Test]
     procedure TestSomething()
     begin
-        // Simple test that always passes
     end;
 }
