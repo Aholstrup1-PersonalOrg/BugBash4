@@ -1,6 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup1/decompose-run-pipeline-no-nuget/Actions/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup1/decompose-run-pipeline/Actions/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go@aholstrup1/decompose-run-pipeline-no-nuget",
-  "templateSha": "b64b1766d3fd640642f3178db0adee65a65dcf77"
+  "templateUrl": "https://github.com/microsoft/AL-Go@aholstrup1/decompose-run-pipeline",
+  "templateSha": "21a37633380fa383b449b7fea8c73a01c9b46a26"
 }

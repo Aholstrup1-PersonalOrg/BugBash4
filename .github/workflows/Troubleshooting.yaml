@@ -30,7 +30,7 @@ jobs:
           lfs: true
 
       - name: Troubleshooting
-        uses: microsoft/AL-Go/Actions/Troubleshooting@aholstrup1/decompose-run-pipeline-no-nuget
+        uses: microsoft/AL-Go/Actions/Troubleshooting@aholstrup1/decompose-run-pipeline
         with:
           shell: powershell
           gitHubSecrets: ${{ toJson(secrets) }}
