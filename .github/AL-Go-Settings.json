@@ -2,5 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup1/decompose-run-pipeline/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go@aholstrup1/decompose-run-pipeline",
-  "templateSha": "0cc3a5a0f62dfecbd9c6bd62e750bd5a6996236d"
+  "templateSha": "114cfe1e20b00b0e3fe23f58eb303236ca7be331"
 }
