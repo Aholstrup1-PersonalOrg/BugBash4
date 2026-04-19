@@ -1,11 +1,12 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/test/bch-4121/Actions/.Modules/settings.schema.json",
-  "country": "us",
-  "appFolders": [
-    "TestApp"
-  ],
+  "useCompilerFolder": true,
   "testFolders": [
     "TestAppTest"
   ],
-  "bcptTestFolders": []
+  "country": "us",
+  "bcptTestFolders": [],
+  "appFolders": [
+    "TestApp"
+  ],
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/test/bch-4121/Actions/.Modules/settings.schema.json"
 }
