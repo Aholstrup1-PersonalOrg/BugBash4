@@ -2,5 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/test/bch-4121/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go@test/bch-4121",
-  "templateSha": "f0adfd0fa60b8e710e1b6de4fbccf1088acdc490"
+  "templateSha": "974dfadcf6abf3da2042064654e4062ab4c4755a"
 }
